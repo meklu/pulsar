@@ -51,7 +51,7 @@ Assume that localhost addresses for the following endpoints are available:
 
 - [broker-admin - http://localhost:8080](http://localhost:8080): access the broker REST interface
 
-- [broker-service-url - pulsar//:locahost:6650](pulsar//:locahost:6650): broker service URL for use with producers and consumers
+- [broker-service-url - pulsar://localhost:6650](pulsar://localhost:6650): broker service URL for use with producers and consumers
 
 You can shut it down with the following command in the folder path:
 
